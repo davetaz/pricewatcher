@@ -1,0 +1,11 @@
+#prodImg {
+	width: 200px;
+	height: 250px;
+	display: inline-block;
+	padding-right: 10px;
+}
+.stock {
+	display: inline-block;
+	vertical-align: top;
+	padding-left: 20px;
+}

@@ -1,0 +1,21 @@
+{
+    "code": "SOMEKEYCODE",
+    "sizes": [
+        "8",
+        "10",
+        "S",
+        "M"
+    ],
+    "products": [
+        {
+            "store": "marks",
+            "url": "http://www.marksandspencer.com/cashmilon-open-front-cardigan/p/p22335242",
+            "watchPrice": ""
+        },
+        {
+            "store": "marks",
+            "url": "http://www.marksandspencer.com/easy-care-soft-touch-geometric-print-shirt/p/p22332090",
+            "watchPrice": ""
+        }
+    ]
+}
